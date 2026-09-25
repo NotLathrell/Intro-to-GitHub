@@ -1,0 +1,10 @@
+Common Git Commands
+===================
+git init            - create a new local repository
+git clone <url>     - copy a remote repository to my computer
+git status          - see which files changed
+git add <file>      - stage changes for the next commit
+git commit -m "msg" - save a snapshot with a message
+git push            - upload commits to GitHub
+git pull            - download new changes from GitHub
+git log --oneline   - show commit history
